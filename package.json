@@ -1,0 +1,17 @@
+{
+  "name": "tube-surfer",
+  "version": "1.0.0",
+  "description": "project designed to replicate functionality of youtube ina different touch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "mongoDb",
+    "backend"
+  ],
+  "author": "Hatim Ashraf",
+  "license": "ISC"
+}
